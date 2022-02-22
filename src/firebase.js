@@ -3,7 +3,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBQyqACHKfysblhwyT-BajSkjuLTQCQYwE",
+  apiKey: "",
   authDomain: "whatsapp-b05fa.firebaseapp.com",
   projectId: "whatsapp-b05fa",
   storageBucket: "whatsapp-b05fa.appspot.com",
